@@ -1,0 +1,1 @@
+# ninja-entry-server-side
