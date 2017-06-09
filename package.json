@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/coderdojo-kodaira/ninja-entry-server-side#readme",
   "devDependencies": {
+    "aws-sdk": "^2.62.0",
     "google-auth-library": "^0.10.0",
     "google-spreadsheet": "^2.0.4",
     "googleapis": "^19.0.0"
