@@ -301,26 +301,4 @@ module.exports.initSheet = (event, context, callback) => {
     console.log(err);
   })
 
-  // SpreadSheetに接続して最終記入列を取得
-
-  // ニンジャごとに最終列以降に追加
-
-}
-
-/**
- * ニンジャの参加可否S3の更新を受け取り、
- * 対象ニンジャの情報をシートから探して更新する。
- */
-module.exports.updateNinjaEntry = (event, context, callback) => {
-
-  // eventにニンジャのファイル名が入ってくる
-
-  // ニンジャの参加状況を取得
-
-  // SpreadSheet名を取得
-
-  // SpreadSheetに接続して、対象ニンジャの行を取得する
-
-  // 対象ニンジャの出席状況を更新する
-
 }
